@@ -1,0 +1,5 @@
+cron:
+- description: get current status
+  url: /cron
+  schedule: every 3 hours from 7:00 to 22:00
+  timezone: Europe/Warsaw

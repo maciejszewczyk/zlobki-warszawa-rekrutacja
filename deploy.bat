@@ -1,0 +1,1 @@
+gcloud app deploy --project <nazwa aplikacji> --version 1 --verbosity=info app.yaml
